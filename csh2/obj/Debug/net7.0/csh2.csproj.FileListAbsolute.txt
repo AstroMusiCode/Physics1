@@ -1,0 +1,15 @@
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/obj/Debug/net7.0/csh2.csproj.AssemblyReference.cache
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/obj/Debug/net7.0/csh2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/obj/Debug/net7.0/csh2.AssemblyInfoInputs.cache
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/obj/Debug/net7.0/csh2.AssemblyInfo.cs
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/obj/Debug/net7.0/csh2.csproj.CoreCompileInputs.cache
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/bin/Debug/net7.0/csh2
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/bin/Debug/net7.0/csh2.deps.json
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/bin/Debug/net7.0/csh2.runtimeconfig.json
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/bin/Debug/net7.0/csh2.dll
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/bin/Debug/net7.0/csh2.pdb
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/obj/Debug/net7.0/csh2.dll
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/obj/Debug/net7.0/refint/csh2.dll
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/obj/Debug/net7.0/csh2.pdb
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/obj/Debug/net7.0/csh2.genruntimeconfig.cache
+/Users/arnavnelli/Desktop/Arnav-Work/Coding/CSharpProjects/csh2/obj/Debug/net7.0/ref/csh2.dll
